@@ -58,6 +58,6 @@ Implement workarounds in the presence of data limitations, making assumptions to
 
 📞 [(91) 9313266499](tel://+919313266499) 
 
-📎 [linkedin.com/in/mahadev-suresh-881500141/](linkedin.com/in/mahadev-suresh-881500141)
+📎  [linkedin.com/in/mahadev-suresh-881500141](https://www.linkedin.com/in/mahadev-suresh-881500141/)
 
-💻 
+💻  
