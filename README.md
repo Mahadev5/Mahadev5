@@ -1,12 +1,7 @@
-<p align="center">
-	<img width="180" height="180" src="/img/circular-shot.png"/>
-</p>
-
 Student Actuary with 2+ years of experience performing experience analysis to monitor the adequacy of terms of trade for health insurance products
-reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in technical aspects of insurance
-work.
+reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in *data science* and *statistical methods*.
 
-[Experience](#experience) | [Projects](#projects) | [Actuarial Exams](#actuarial-exams) | [Certifcates](#certificate) | [Education](#education) | [Contact](#contact)
+[Experience](#experience) | [Projects](#projects) | [Fellowship Exams](#fellowship-exams) | [Certifcates](#certificate) | [Education](#education) | [Contact](#contact)
 
 ### Experience
 **Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
@@ -36,7 +31,7 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - Interaction terms where fit based on deviations in frequencies. 
 - Evaluate the goodness of fit in the final model by testing it on train / test sets if data.
 
-### Actuarial Exams
+### Fellowship Exams
 *[Institute & Faculty of Actuaries](https://actuaries.org.uk/qualify/curriculum/), UK*
 - CM1, Actuarial Mathematics for Modelling.
 - CM2, Economic Modelling.
@@ -53,7 +48,6 @@ Implement workarounds in the presence of data limitations, making assumptions to
 
 ### Education
 - Bachlor of Science [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/) Andra Pradesh, India
-
 
 ### Contact
 
