@@ -11,7 +11,7 @@ Identifying factors with a roughly 10% impact on claims rates for treaties.
 
 **Actuarial Analyst | Swiss Re, India | OCT 2021 - MAR 2024**
 - Validate client-provided data to ensure quality for conducting experience analysis.
-Implement workarounds in the presence of data limitations, making assumptions to overcome issues, and communicate the impact to crossfunctional teams (valuation, pricing & portfolio management).
+Implement workarounds in the presence of data limitations, making assumptions to overcome issues, and communicate the impact to cross-functional teams (valuation, pricing & portfolio management).
 - Construct an experience studies model from the ground up (within a week), taking into account data volume, type, and business requirements.
 - Perform in-depth analysis of experience studies results to establish pricing parameters for health insurance transactions within tight timelines.
 - Annually execute AvE (Actual versus Expected) analysis to validate trade terms and valuation reserves, followed by recommendations for changes.
