@@ -6,7 +6,7 @@ Student Actuary with 2+ years of experience performing experience analysis to mo
 reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in technical aspects of insurance
 work.
 
-[Experience 👩🏻‍💻](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 🎓](#education) | [Contact ☎️](#contact)
+[Experience](#experience) | [Projects](#projects) | [Actuarial Exams](#actuarial-exams) | [Education](#education) | [Contact](#contact)
 
 ### Experience
 **Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
