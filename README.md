@@ -1,7 +1,7 @@
 Student Actuary with 2+ years of experience performing experience analysis to monitor the adequacy of terms of trade for health insurance products
 reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in *data science* and *statistical methods*.
 
-[Experience](#experience) | [Projects](#projects) | [Fellowship Exams](#fellowship-exams) | [Certifcates](#certificate) | [Education](#education) | [Contact](#contact)
+[Experience](#experience) | [Projects](#projects) | [Fellowship Exams](#fellowship-exams) | [Certificates](#certificate) | [Education](#education) | [Contact](#contact)
 
 ### Experience
 **Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
