@@ -33,7 +33,8 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - Retrieved and analyzed crime rate and climate change data of Chicago using R to find the relationship between them.
 - Used Tableau for visualization of the data by generating dashboards and Tableau reports on different metrics.
 
-### Actuarial Exams, IFoA
+### Actuarial Exams
+*Institute & Faculty of Actuaries, UK*
 - CM1, Actuarial Mathematics for Modelling.
 - CM2, Economic Modelling.
 - CS1, Actuarial Statistics.
