@@ -6,7 +6,7 @@ Student Actuary with 2+ years of experience performing experience analysis to mo
 reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in technical aspects of insurance
 work.
 
-[Experience](#experience) | [Projects](#projects) | [Actuarial Exams](#actuarial-exams) | [Education](#education) | [Contact](#contact)
+[Experience](#experience) | [Projects](#projects) | [Actuarial Exams](#actuarial-exams) | [Certifcates](#certificate) | [Education](#education) | [Contact](#contact)
 
 ### Experience
 **Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
@@ -47,6 +47,9 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - CP2, Modelling Practice. 
 - CP3, Communications Practice.
 - OPAT - Part 1. 
+
+### Certification
+**Data Scientist Associate with R** from [*DataCamp*](https://www.datacamp.com/completed/statement-of-accomplishment/track/449c17b374a072b2fe97e5e286f3ae5853f03c6f)
 
 ### Education
 - Bachlor of Science [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/) Andra Pradesh, India
