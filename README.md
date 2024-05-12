@@ -22,8 +22,9 @@ Having 5+ years of experience as Data Analyst with expertise in reporting and cl
 - Automated daily tasks by writing SQL procedural queries which reduced the monitoring task by 40 percent to save time.
 
 
-**Actuarial Intern | [Tech Actuarial](https://techactuarial.com/), India | DEC 2012 - MAR 2013**
-- 
+**Actuarial Intern | [Tech Actuarial](https://techactuarial.com/), India | MAY 2020 - JUN 2020**
+- Data Cleaning Project: Annual financial disclosures for non-life companies were extracted from the IRDAI website. The data was converted from wide to long format for analysis to be performed.
+- Gratuity Valuation Report based on Ind AS 19 using projected unit credit (PUC) method.
 
 ### Projects
 
