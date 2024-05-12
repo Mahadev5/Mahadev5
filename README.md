@@ -29,30 +29,24 @@ Implement workarounds in the presence of data limitations, making assumptions to
 
 ### Projects
 
-**Analyze affect of Climate change on Human Behavior**
+**Claim frequency estimation for Auto-TP liability from France (Publicly available from CASDatasets)**
 - Retrieved and analyzed crime rate and climate change data of Chicago using R to find the relationship between them.
 - Used Tableau for visualization of the data by generating dashboards and Tableau reports on different metrics.
 
-**Collect Political Social Network Data using Twitter API**
-- Used Twitter API to build a social network for 4 U.S. Presidential candidates using their account information.
-- Analyzed the number of shared accounts followed by each pair of candidates to find some interesting information.
-- Used libraries such as Networkx, Matplotlib to plot the links between them and print stats of resulting graph for analysis.
-
-**Predict Crime Rate using Machine Learning Models**
-- Implemented Decision Tree, Linear Classification and Regression models to predict crime rates around the country.
-- Trained, tested & calculated most predictive features on a dataset and compared every model’s performance.
-
-**Benchmark CPU, Memory, Disk and Network on AWS Cloud**
-- Have implemented CPU, Memory, Disk and Network benchmark code in C to measure latency and throughput over AWS.
-- Used strong-scaling, AVX instructions and multithreading to compare results on different Amazon EC2 instances.
-
-### Tech Stack
-
+### Actuarial Exams, IFoA
+- CM1, Actuarial Mathematics for Modelling.
+- CM2, Economic Modelling.
+- CS1, Actuarial Statistics.
+- CS2, Risk Modelling and Survival Analysis.
+- CB1, Business Finance.
+- CB2, Business Economics.
+- CP2, Modelling Practice. 
+- CP3, Communications Practice.
+- OPAT - I. 
 
 ### Education
-- Master of Computer Science [Illinois Institute of Technology](https://www.iit.edu/) Chicago, IL 2018
+- Bachlor of Science [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/) Andra Pradesh, India
 
-- Bachelor of Science in Information Science [Visvesvaraya Technological University](https://vtu.ac.in/en/) India  2012
 
 ### Contact
 
