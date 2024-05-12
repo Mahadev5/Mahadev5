@@ -37,7 +37,7 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - Evaluate the goodness of fit in the final model by testing it on train / test sets if data.
 
 ### Actuarial Exams
-*Institute & Faculty of Actuaries, UK*
+*[Institute & Faculty of Actuaries](https://actuaries.org.uk/qualify/curriculum/), UK*
 - CM1, Actuarial Mathematics for Modelling.
 - CM2, Economic Modelling.
 - CS1, Actuarial Statistics.
