@@ -29,9 +29,12 @@ Implement workarounds in the presence of data limitations, making assumptions to
 
 ### Projects
 
-**Claim frequency estimation for Auto-TP liability from France (Publicly available from CASDatasets)**
-- Retrieved and analyzed crime rate and climate change data of Chicago using R to find the relationship between them.
-- Used Tableau for visualization of the data by generating dashboards and Tableau reports on different metrics.
+**Claim frequency estimation for Auto-TP liability from French Market using GLM (Publicly available from CASDatasets)**
+- Perform exploratory analysis on the data to make sense of the exposure information and the quality of other risk covariates provided. 
+- Use shape files to understand the geographic spread (French administrative regions) of the company's business. 
+- Fitting different GLM models with all levels in a covariate. 
+- Interaction terms where fit based on deviations in frequencies. 
+- Evaluate the goodness of fit in the final model by testing it on train / test sets if data.
 
 ### Actuarial Exams
 *Institute & Faculty of Actuaries, UK*
@@ -43,7 +46,7 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - CB2, Business Economics.
 - CP2, Modelling Practice. 
 - CP3, Communications Practice.
-- OPAT - I. 
+- OPAT - Part 1. 
 
 ### Education
 - Bachlor of Science [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/) Andra Pradesh, India
@@ -51,10 +54,10 @@ Implement workarounds in the presence of data limitations, making assumptions to
 
 ### Contact
 
-📨 [sgupta57@hawk.iit.edu](mailto://sgupta57@hawk.iit.edu)
+📨 [mahadevsuresh005@gmail.com](mailto://mahadevsuresh005@gmail.com)
 
-📞 [(317) 985-2196](tel://+13179852196) 
+📞 [(91) 9313266499](tel://+919313266499) 
 
-📎 [linkedin.com/in/guptashiksha](https://www.linkedin.com/in/guptashiksha) 
+📎 [linkedin.com/in/mahadev-suresh-881500141/](linkedin.com/in/mahadev-suresh-881500141/)
 
-💻 [github.com/sgupta57](https://www.github.com/sgupta57)
+💻 
