@@ -2,26 +2,27 @@
 	<img width="180" height="180" src="/img/circular-shot.png"/>
 </p>
 
-Having 5+ years of experience as Data Analyst with expertise in reporting and client facing skills. With my academic and professional experience, I have developed an ability to transform mounds of data into a form which can readily be analyzed to share recommendation and aid in business decision making.
+Student Actuary with 2+ years of experience performing experience analysis to monitor the adequacy of terms of trade for health insurance products
+reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in technical aspects of insurance
+work.
 
 [Experience 👩🏻‍💻](#experience) | [Projects 🤖](#projects) | [Tech Stack 🕹](#tech-stack) | [Education 🎓](#education) | [Contact ☎️](#contact)
 
 ### Experience
-**Data Analyst | Capital One, Chicago, IL | FEB 2019 - PRESENT**
-- Migrated and validated Credit Policy Control scripts for Kohl’s partnerships credit card from Redshift to Snowflake which reduces the execution time of scripts.
-- Automated scripts using Python, SnowSQL, Presto, EC2 instance, and Databricks which removed the error in creating reports and saved 60 percent of script execution time.
-- Developed, validated and automated Credit Policy Control scripts for commercial accounts and promotional reports for consumer accounts for partnerships credit card and rationalize the process which saved 80 percent of execution time.
-- Provided training to teammates on automation of the scripts and insights on data mapping and created learning documents which saved the time of team members in spending related issues.
+**Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
+- Supervise and review experience analysis carried out by junior team members, ensuring precision and alignment with business requirements.
+- Utilize Generalized Linear Models to identify and analyze key drivers of experience, considering the simultaneous impact of multiple factors.
+Identifying factors with a roughly 10% impact on claims rates for treaties.
 
-**Business Intelligence Developer | Tata Consultancy Services, India | JAN 2015 - JUL 2016**
-- Developed and maintained data mart to extract, load and transform (ETL) data using SSIS packages to perform analysis.
-- Created dashboards using Tableau and generated reports to track issues raised by clients, improved the solving rate by 8 percent.
-
-**Business Intelligence/Data Analyst | Tata Consultancy Services, India | MAR 2013 - DEC 2014**
-- Implemented data-driven insights and customer behavior analysis using python visualization techniques which identified key issues to work on.
-- Automated daily tasks by writing SQL procedural queries which reduced the monitoring task by 40 percent to save time.
-
-
+**Actuarial Analyst | Swiss Re, India | OCT 2021 - MAR 2024**
+- Validate client-provided data to ensure quality for conducting experience analysis.
+Implement workarounds in the presence of data limitations, making assumptions to overcome issues, and communicate the impact to crossfunctional teams (valuation, pricing & portfolio management).
+- Construct an experience studies model from the ground up (within a week), taking into account data volume, type, and business requirements.
+- Perform in-depth analysis of experience studies results to establish pricing parameters for health insurance transactions within tight timelines.
+- Annually execute AvE (Actual versus Expected) analysis to validate trade terms and valuation reserves, followed by recommendations for changes.
+- Automate time-intensive tasks, using coding, to reduce the time required for updating Excel sheets by approximately 50%.
+- Develop and integrate necessary functions and modules to transition the experience studies model from SAS to R, resulting in reducing run time by about 20%.
+  
 **Actuarial Intern | [Tech Actuarial](https://techactuarial.com/), India | MAY 2020 - JUN 2020**
 - Data Cleaning Project: Annual financial disclosures for non-life companies were extracted from the IRDAI website. The data was converted from wide to long format for analysis to be performed.
 - Gratuity Valuation Report based on Ind AS 19 using projected unit credit (PUC) method.
@@ -46,16 +47,7 @@ Having 5+ years of experience as Data Analyst with expertise in reporting and cl
 - Used strong-scaling, AVX instructions and multithreading to compare results on different Amazon EC2 instances.
 
 ### Tech Stack
-- **Machine Learning:** Regression, Clustering, Decision Tree, Predictive Modeling, Classification
-- **Data Visualization:** Tableau, Matplotlib
-- **Advanced Analytics:** Databricks, EC2, Snowflake, Redshift, Amazon S3, Legoland, Presto, Jupyter Notebook, Ultra Plus
-- **Programming skills:** SQL, Python, R, C, C++, Java, JavaScript, HTML, CSS
-- **Database:** SnowSQL, MySQL, SQL Server, Oracle, MongoDB, NoSQL
-- **ETL/BI Tools:** Business Objects, SSIS, SSRS, SSMS, Big Data, Web Intelligence Report.
-- **Math:** Statistics and Probability
-- Agile Development
-- Project and Team Management
-- JIRA, Git, Excel, PowerPoint
+
 
 ### Education
 - Master of Computer Science [Illinois Institute of Technology](https://www.iit.edu/) Chicago, IL 2018
