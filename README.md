@@ -36,6 +36,8 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - Interaction terms where fit based on deviations in frequencies. 
 - Evaluate the goodness of fit in the final model by testing it on train / test sets if data.
 
+**Mortality Projection - Japanese Population (1960-2020)**
+
 ### Fellowship Exams
 *[Institute & Faculty of Actuaries](https://actuaries.org.uk/qualify/curriculum/), UK*
 - CM1, Actuarial Mathematics for Modelling.
