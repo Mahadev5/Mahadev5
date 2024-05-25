@@ -47,7 +47,7 @@ Implement workarounds in the presence of data limitations, making assumptions to
 **Data Scientist Associate with R** from [*DataCamp*](https://www.datacamp.com/completed/statement-of-accomplishment/track/449c17b374a072b2fe97e5e286f3ae5853f03c6f)
 
 ### Education
-- Bachlor of Science [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/) Andra Pradesh, India
+- Bachlor of Science, Mathematics (Hons.) [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/) Andra Pradesh, India
 
 ### Contact
 
