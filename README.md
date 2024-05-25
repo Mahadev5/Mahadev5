@@ -17,7 +17,12 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - Annually execute AvE (Actual versus Expected) analysis to validate trade terms and valuation reserves, followed by recommendations for changes.
 - Automate time-intensive tasks, using coding, to reduce the time required for updating Excel sheets by approximately 50%.
 - Develop and integrate necessary functions and modules to transition the experience studies model from SAS to R, resulting in reducing run time by about 20%.
-  
+
+**Summer Program Participant | Casualty Actuarial Society | JUN 2020 - AUG 2020**
+- Introduction to P&C business.
+- Workshops & excercise on Rate making & reserving.
+- Case competition.  
+
 **Actuarial Intern | [Tech Actuarial](https://techactuarial.com/), India | MAY 2020 - JUN 2020**
 - Data Cleaning Project: Annual financial disclosures for non-life companies were extracted from the IRDAI website. The data was converted from wide to long format for analysis to be performed.
 - Gratuity Valuation Report based on Ind AS 19 using projected unit credit (PUC) method.
