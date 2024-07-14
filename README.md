@@ -46,6 +46,7 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - CS2, Risk Modelling and Survival Analysis.
 - CB1, Business Finance.
 - CB2, Business Economics.
+- CP1, Actuarial Practice. 
 - CP2, Modelling Practice. 
 - CP3, Communications Practice.
 - OPAT - Part 1. 
