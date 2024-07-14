@@ -7,7 +7,6 @@ reinsured in Japan & Korea markets. Keenly exploring opportunities to gain expos
 **Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
 - Supervise and review experience analysis carried out by junior team members, ensuring precision and alignment with business requirements.
 - Utilize Generalized Linear Models to identify and analyze key drivers of experience, considering the simultaneous impact of multiple factors.
-Identifying factors with a roughly 10% impact on claims rates for treaties.
 
 **Actuarial Analyst | Swiss Re, India | OCT 2021 - MAR 2024**
 - Validate client-provided data to ensure quality for conducting experience analysis.
