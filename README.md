@@ -35,12 +35,11 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - Interaction terms where fit based on deviations in frequencies. 
 - Evaluate the goodness of fit in the final model by testing it on train / test sets if data.
 
-**Mortality Projection - Japanese & German Population**
-
-
-
-**Excess Mortality Investigations - Japan, Germany** 
-
+**Mortality Projection for Excess Mortality Investigations - Japanese & German Population (2020-2023)**
+- Extract population and death data from Japanese health ministry & German federal bureau of statistics respectively.
+- Japanese data required cleaning, appending, reformatting for purpose of the analysis.
+- Model mortality using LCC (Renshaw-Haberman), seperately for males & females.  
+- Compare the projected mortality from 2020 to 2023 to the actual deaths observed. 
 
 ### Fellowship Exams
 *[Institute & Faculty of Actuaries](https://actuaries.org.uk/qualify/curriculum/), UK*
