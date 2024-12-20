@@ -5,17 +5,18 @@ reinsured in Japan & Korea markets. Keenly exploring opportunities to gain expos
 
 ### Experience
 **Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
-- Supervise and review experience analysis carried out by junior team members, ensuring precision and alignment with business requirements.
-- Utilize Generalized Linear Models to identify and analyze key drivers of experience, considering the simultaneous impact of multiple factors.
+- Supervised and reviewed experience analysis conducted by junior team members, ensuring accuracy and alignment with business requirements for 80% of the business written in Japan & Korea markets.
+- Investigated excess mortality in the Japanese population to analyze mortality trends within the Swiss Re portfolio with PV claims of about $1.2 billion USD. The analysis was used to get a conservative view of post COVID mortality in Japan.
 
 **Actuarial Analyst | Swiss Re, India | OCT 2021 - MAR 2024**
-- Validate client-provided data to ensure quality for conducting experience analysis.
-Implement workarounds in the presence of data limitations, making assumptions to overcome issues, and communicate the impact to cross-functional teams (valuation, pricing & portfolio management).
-- Construct an experience studies model from the ground up (within a week), taking into account data volume, type, and business requirements.
-- Perform in-depth analysis of experience studies results to establish pricing parameters for health insurance transactions within tight timelines.
-- Annually execute AvE (Actual versus Expected) analysis to validate trade terms and valuation reserves, followed by recommendations for changes.
-- Automate time-intensive tasks, using coding, to reduce the time required for updating Excel sheets by approximately 50%.
-- Develop and integrate necessary functions and modules to transition the experience studies model from SAS to R, resulting in reducing run time by about 20%.
+- Validate client-provided data for new treaties written to ensure quality for experience analysis, addressing data limitations with workarounds and assumptions, and effectively communicated implications to cross-functional teams.
+- Executed annual Actual versus Expected (AvE) analysis to update internal terms of trade for hospital cash, critical illness and 
+morality business.
+- Applied Generalized Linear Models to identify and analyze key drivers of experience, leading to identification of factors that with about 10% impact on claims rates.
+- Automated time-intensive tasks using programming, achieving a reduction in update time by about 2-3 hours per study.
+
+**Visiting Faculty | Sri Sathya Sai Institute of Higher Learning, Puttaparthi | NOV 2023 - PRESENT**
+- Teach CP1, CM1, CM2 & CS2 for masters and undergraduate students.
 
 **Summer Program Participant | Casualty Actuarial Society | JUN 2020 - AUG 2020**
 - Introduction to P&C business.
