@@ -56,8 +56,9 @@ morality business.
 - SP8, General Insurance Pricing Principles. 
 - OPAT - Part 1.
 
-### Awards
-
+### Awards 
+- **NOV 2024** *"Sho" Time Award for technical improvement* awarded by Swiss Re Japan, to form a conservative view of post COVID mortality in Japan.
+- **DEC 2022** Hasti Award, awarded by Swiss Re GBS India.  
 
 ### Certification
 **Data Scientist Associate with R** from [*DataCamp*](https://www.datacamp.com/completed/statement-of-accomplishment/track/449c17b374a072b2fe97e5e286f3ae5853f03c6f)
