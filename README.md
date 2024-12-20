@@ -1,4 +1,4 @@
-Student Actuary with 2+ years of experience performing experience analysis to monitor the adequacy of terms of trade for health insurance products
+Student Actuary with 3+ years of experience performing experience analysis to monitor the adequacy of terms of trade for health insurance products
 reinsured in Japan & Korea markets. Keenly exploring opportunities to gain exposure to P&C space due to interest in *data science* and *statistical methods*.
 
 [Experience](#experience) | [Projects](#projects) | [Fellowship Exams](#fellowship-exams) | [Certification](#certification) | [Education](#education) | [Contact](#contact)
