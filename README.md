@@ -54,7 +54,10 @@ morality business.
 - CP2, Modelling Practice. 
 - CP3, Communications Practice.
 - SP8, General Insurance Pricing Principles. 
-- OPAT - Part 1. 
+- OPAT - Part 1.
+
+### Awards
+
 
 ### Certification
 **Data Scientist Associate with R** from [*DataCamp*](https://www.datacamp.com/completed/statement-of-accomplishment/track/449c17b374a072b2fe97e5e286f3ae5853f03c6f)
