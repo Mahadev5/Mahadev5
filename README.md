@@ -52,6 +52,7 @@ Implement workarounds in the presence of data limitations, making assumptions to
 - CP1, Actuarial Practice. 
 - CP2, Modelling Practice. 
 - CP3, Communications Practice.
+- SP8, General Insurance Pricing Principles. 
 - OPAT - Part 1. 
 
 ### Certification
