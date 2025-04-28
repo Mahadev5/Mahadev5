@@ -4,7 +4,10 @@ reinsured in Japan & Korea markets. Keenly exploring opportunities to gain expos
 [Experience](#experience) | [Projects](#projects) | [Fellowship Exams](#fellowship-exams) | [Awards](#Awards)  | [Certification](#certification) | [Education](#education) | [Contact](#contact)
 
 ### Experience
-**Senior Actuarial Analyst | Swiss Re, India | APR 2024 - PRESENT**
+**Senior Actuarial Analyst P&C | Swiss Re, India | JAN 2025 - PRESENT**
+- New role
+  
+**Senior Actuarial Analyst | Swiss Re, India | APR 2024 - JAN 2025**
 - Supervised and reviewed experience analysis conducted by junior team members, ensuring accuracy and alignment with business requirements for 80% of the business written in Japan & Korea markets.
 - Investigated excess mortality in the Japanese population to analyze mortality trends within the Swiss Re portfolio with PV claims of about $1.2 billion USD. The analysis was used to get a conservative view of post COVID mortality in Japan.
 
