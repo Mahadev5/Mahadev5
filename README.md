@@ -57,7 +57,8 @@ morality business.
 - CP2, Modelling Practice. 
 - CP3, Communications Practice.
 - SP8, General Insurance Pricing Principles. 
-- OPAT - Part 1.
+- Online professonalism assessment test - Part 1.
+- Professionalism course 2. 
 
 ### Awards 
 - **NOV 2024** "Sho" Time Award for technical improvement, (by Swiss Re Japan), for analysis that aided in forming a conservative view of post COVID mortality in Japan.
